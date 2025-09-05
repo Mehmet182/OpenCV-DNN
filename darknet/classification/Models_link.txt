@@ -1,0 +1,2 @@
+Darkent19=https://drive.google.com/drive/folders/1y50GDuzfiG71y4QZpdHEKl5coL6gkyPZ?usp=drive_link
+densenet201=https://drive.google.com/drive/folders/1Kz4gDLPUe_Soku6XbPhSGv4LjAzGrusb?usp=drive_link
