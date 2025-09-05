@@ -1,0 +1,4 @@
+Yolov4=https://drive.google.com/drive/folders/1wGzkaqPaT3qhbQ9XCg96FS9WAgxsBN3N?usp=drive_link
+Yolov4-tiny=https://drive.google.com/drive/folders/19gWrwH2973d5KKgblDY3mkwx_QjuaS6f?usp=drive_link
+yolov3-tiny=https://drive.google.com/drive/folders/1cn6BbvpJd5CYVlLHswtMGP6B0EgtoIPT?usp=drive_link
+yolov3=https://drive.google.com/drive/folders/173IFLjidM2YI_uiOBkMWnQsOREgynkAf?usp=drive_link
