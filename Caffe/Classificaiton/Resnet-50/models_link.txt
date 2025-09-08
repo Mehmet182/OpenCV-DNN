@@ -1,0 +1,2 @@
+resnet50_prototxt="https://drive.google.com/file/d/1xED_os96TF7TntcjvVioKAQ6bTrv-mh_/view?usp=drive_link"
+resnet50_caffemodel="https://drive.google.com/file/d/1pkq1r3O55g7m6jFHXgfSFgvYNQtnrMC7/view?usp=drive_link"

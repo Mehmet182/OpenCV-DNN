@@ -1,0 +1,3 @@
+mobilNet_ssd_v3_pb="https://drive.google.com/file/d/1yt1hNNVi4zFsnGKdSuu4z5X7RkFuQkVc/view?usp=drive_link"
+mobilNet_ssd_v3_pbtxt="https://drive.google.com/file/d/1uZW5Zm-0E64TC8lMK8kgq28c_WTjAie6/view?usp=drive_link"
+mobilNet_ssd_v3_classes="https://drive.google.com/file/d/1ykAkKsDD4XbPnAjypuQ0f5-Wu9xBvZKp/view?usp=drive_link"
